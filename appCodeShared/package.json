@@ -1,7 +1,10 @@
 {
   "name": "appCodeShared",
   "nativescript": {
-    "id": "org.nativescript.appCodeShared"
+    "id": "org.nativescript.appCodeShared",
+    "tns-ios": {
+      "version": "5.2.0"
+    }
   },
   "version": "0.0.0",
   "scripts": {
